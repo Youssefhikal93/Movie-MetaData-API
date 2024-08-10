@@ -5,7 +5,7 @@
 1. Clone the repository:
     ```sh
     git clone https://github.com/Youssefhikal93/Movie-metaData-API
-    cd Movie-MetaData-API
+    cd Movie-metaData-API
     ```
 
 2. Install dependencies:
