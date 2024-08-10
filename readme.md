@@ -22,8 +22,10 @@
     npm run start:prod 
     ```
  The data will be seeded automaticully 
-1. In "production" start:dev for errors it will show friendly msgs for the users 
-2. In "development" start:dev the errors is completly exposed for debugging 
+ 
+ - based on NODE_ENV varibale the errors will be handled
+1. In "production" start:dev => the error will be friendly msgs for the users 
+2. In "development" start:dev => the errors are completly exposed for debugging 
 
 ## API Endpoints
 
