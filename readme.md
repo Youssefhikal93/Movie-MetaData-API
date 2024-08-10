@@ -25,7 +25,7 @@
  
  - based on NODE_ENV varibale the errors will be handled
 1. In "production" start:prod => the error will be friendly msgs for the users 
-2. In "development" start:dev => the errors are completly exposed for debugging 
+2. In "development" start:dev => the errors are compeletly exposed for debugging 
 
 ## API Endpoints
 
@@ -54,7 +54,7 @@ the deafult port is 3000 as the configration set in the files
 ## Error handling 
 
 ### handled errors 
- `In case there's any unhandled error , the custom msg will appear based on the envirmonet varrbales( production | development) ` 
+ `In case there's any unhandled error , the custom msg will appear based on the enviroment varibales (production | development) ` 
  
 
 ## Test 
