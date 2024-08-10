@@ -24,7 +24,7 @@
  The data will be seeded automaticully 
  
  - based on NODE_ENV varibale the errors will be handled
-1. In "production" start:dev => the error will be friendly msgs for the users 
+1. In "production" start:prod => the error will be friendly msgs for the users 
 2. In "development" start:dev => the errors are completly exposed for debugging 
 
 ## API Endpoints
