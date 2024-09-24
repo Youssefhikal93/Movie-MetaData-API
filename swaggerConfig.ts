@@ -11,8 +11,8 @@ const options = {
     },
     servers: [
       {
-        // url: 'http://localhost:3000',
-        url: 'https://movie-metadata-api.onrender.com',
+        url: 'http://localhost:3000',
+        // url: 'https://movie-metadata-api.onrender.com',
       },
     ],
     components: {
